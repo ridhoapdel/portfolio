@@ -36,7 +36,7 @@ body {
 .utama-header:visited {
   display: inline-block;
   cursor: pointer;
-  color: #2066FF;
+  color: red;
 }
 
 .utama-header:hover {
@@ -153,3 +153,4 @@ body {
   -webkit-mask-size: 100% 100%;
   mask-size: 100% 100%;
 }
+

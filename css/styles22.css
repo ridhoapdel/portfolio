@@ -29,6 +29,7 @@ body {
   font-family: "GeneralSans";
   font-weight: 600;
   font-size: 50px;
+  color: red;
   }
 
 .utama-header,
@@ -153,4 +154,5 @@ body {
   -webkit-mask-size: 100% 100%;
   mask-size: 100% 100%;
 }
+
 

@@ -28,7 +28,8 @@ html, body {
   height: 100%;
   margin: 0px;
   padding: 0px;
-  font-family: "GeneralSans";
+  font-family: 'General Sans', sans-serif;
+                                                
 }
 
 body {
@@ -167,5 +168,6 @@ body {
   mask-size: 100% 100%;
 
 }
+
 
 

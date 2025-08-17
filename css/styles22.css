@@ -23,12 +23,14 @@ font-weight
   src: url("fonts/GeneralSans_Complete/GeneralSans-VariableItalic.ttf");
 }
 
+@import url('https://api.fontshare.com/v2/css?f[]=general-sans@200,300,400,500,600,700&display=swap');
+
 
 html, body {
   height: 100%;
   margin: 0px;
   padding: 0px;
-  font-family: 'General Sans', sans-serif;
+  font-family: "GeneralSans";
                                                 
 }
 
@@ -168,6 +170,7 @@ body {
   mask-size: 100% 100%;
 
 }
+
 
 
 

@@ -10,6 +10,8 @@ font-weight
 
 */
 
+@import url('https://api.fontshare.com/v2/css?f[]=general-sans@200,300,400,500,600,700&display=swap');
+
 html, body {
   height: 100%;
   margin: 0px;
@@ -29,7 +31,6 @@ body {
   font-family: "GeneralSans";
   font-weight: 600;
   font-size: 50px;
-  color: red;
   }
 
 .utama-header,
@@ -37,7 +38,7 @@ body {
 .utama-header:visited {
   display: inline-block;
   cursor: pointer;
-  color: red;
+  color: #2066FF;
 }
 
 .utama-header:hover {
@@ -154,5 +155,6 @@ body {
   -webkit-mask-size: 100% 100%;
   mask-size: 100% 100%;
 }
+
 
 

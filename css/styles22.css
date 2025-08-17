@@ -2,7 +2,7 @@
   font-family: "GeneralSans";
   font-weight: 200 700;
   font-style: normal;
-  src: url("/fonts/GeneralSans_Complete/GeneralSans-Variable.ttf");
+  src: url("fonts/GeneralSans_Complete/GeneralSans-Variable.ttf");
 }
 
 /* 
@@ -20,7 +20,7 @@ font-weight
   font-family: "GeneralSans";
   font-weight: 200 700;
   font-style: italic;
-  src: url("/fonts/GeneralSans_Complete/GeneralSans-VariableItalic.ttf");
+  src: url("fonts/GeneralSans_Complete/GeneralSans-VariableItalic.ttf");
 }
 
 
@@ -167,4 +167,5 @@ body {
   mask-size: 100% 100%;
 
 }
+
 
